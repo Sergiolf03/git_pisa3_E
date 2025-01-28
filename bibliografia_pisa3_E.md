@@ -1,6 +1,6 @@
 # Nombre del documento
 
 ## Sergio López Fernández
-## Juan Torrijos
-## Fabiana
-## Miguel Garrido
+## Juan Torrijos Naranjo
+## Fabiana Marqueés López
+## Miguel Garrido León
