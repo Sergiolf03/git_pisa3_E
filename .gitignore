@@ -1,1 +1,17 @@
+# Ignorar archivos de macOS
+.DS_Store
+.Trashes
+.Spotlight-V100
+.fseventsd
+.AppleDouble
+.LSOverride
 
+# Ignorar archivos de Windows
+Desktop.ini
+[Dd]esktop.ini
+[Bb]ehindTheScene*
+[Tt]humbs.db
+
+# Ignorar archivos de VSCode
+.vscode/
+*.code-workspace
